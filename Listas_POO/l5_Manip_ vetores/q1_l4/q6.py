@@ -1,0 +1,6 @@
+nome = input("Digite um nome: ")
+nome = nome.upper()
+nome = list(nome)
+list.reverse(nome)
+nome = "".join(nome)
+print(nome)
