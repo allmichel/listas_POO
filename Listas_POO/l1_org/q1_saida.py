@@ -14,5 +14,5 @@ z = z + x
 z = z + x - z
 
 w = y + x + z
-print('x =', x, ', y =', y, ', z =', z, 'w = ', w)
+print('x =', x, ', y =', y, ', z =', z, 'w = ', 1)
 #x -> -1.0 y -> 1.0 z -> 0.0 w -> 
